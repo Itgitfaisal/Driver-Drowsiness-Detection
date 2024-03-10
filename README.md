@@ -15,5 +15,5 @@ This project aims to develop a system for detecting drowsiness in drivers using 
 - GUI development (optional) using libraries like Tkinter or PyQt for user interface implementation.
 - Integration with hardware devices such as webcams or onboard cameras for data acquisition.
 
-# Disclaimer:
+# conclusion:
 This project is intended for educational and experimental purposes. While it may help in detecting drowsiness in drivers, it should not be relied upon solely for ensuring road safety. Always prioritize safe driving practices and adhere to traffic laws and regulations.
