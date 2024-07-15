@@ -1,4 +1,4 @@
-# Driver-Drowsiness-Detection
+# Identification And Detection of Driver Drowsiness Using Machine Learning Technique
 
 # Overview: 
 This project aims to develop a system for detecting drowsiness in drivers using computer vision techniques. Drowsy driving is a significant cause of accidents worldwide, leading to injuries and fatalities. By employing machine learning algorithms and image processing, this project seeks to create a real-time monitoring system that alerts drivers when signs of drowsiness are detected, thereby potentially preventing accidents and saving lives.
